@@ -9,12 +9,12 @@
 
  @font-face {
   font-family: 'ui-icons';
-  src: url('http://deothemes.com/envato/deus/html/fonts/ui-icons.eot?44057230');
-  src: url('http://deothemes.com/envato/deus/html/fonts/ui-icons.eot?44057230#iefix') format('embedded-opentype'),
-       url('http://deothemes.com/envato/deus/html/fonts/ui-icons.woff2?44057230') format('woff2'),
-       url('http://deothemes.com/envato/deus/html/fonts/ui-icons.woff?44057230') format('woff'),
-       url('http://deothemes.com/envato/deus/html/fonts/ui-icons.ttf?44057230') format('truetype'),
-       url('http://deothemes.com/envato/deus/html/fonts/ui-icons.svg?44057230#ui-icons') format('svg');
+  src: url('https://rawcdn.githack.com/fahmisanjaya89/wablogid/3855233756e1c99b7e4385a6db5c7a699de03c4a/ui-icons.eot?44057230');
+  src: url('https://rawcdn.githack.com/fahmisanjaya89/wablogid/3855233756e1c99b7e4385a6db5c7a699de03c4a/ui-icons.eot?44057230#iefix') format('embedded-opentype'),
+       url('https://rawcdn.githack.com/fahmisanjaya89/wablogid/4982d4c121bc449f76407f4036a3ed5117c89e7e/ui-icons.woff2?44057230') format('woff2'),
+       url('https://rawcdn.githack.com/fahmisanjaya89/wablogid/3855233756e1c99b7e4385a6db5c7a699de03c4a/ui-icons.woff?44057230') format('woff'),
+       url('https://rawcdn.githack.com/fahmisanjaya89/wablogid/4982d4c121bc449f76407f4036a3ed5117c89e7e/ui-icons.ttf?44057230') format('truetype'),
+       url('https://rawcdn.githack.com/fahmisanjaya89/wablogid/4982d4c121bc449f76407f4036a3ed5117c89e7e/ui-icons.svg?44057230#ui-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,7 +24,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'ui-icons';
-    src: url('http://deothemes.com/envato/deus/html/fonts/ui-icons.svg?44057230#ui-icons') format('svg');
+    src: url('https://rawcdn.githack.com/fahmisanjaya89/wablogid/4982d4c121bc449f76407f4036a3ed5117c89e7e/ui-icons.svg?44057230#ui-icons') format('svg');
   }
 }
 */
